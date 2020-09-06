@@ -15,3 +15,12 @@ This is a repository for free resources I found online which I feel can be of us
 | JavaScript Animation | https://popmotion.io/learn/get-started/ | Popmotion is a low-level, functional JavaScript motion library.|
 |Typed JS | https://github.com/mattboldt/typed.js | Typed.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set.|
 | Node Js Tutorial| https://docs.microsoft.com/en-gb/learn/modules/build-web-api-nodejs-express/1-introduction | Learn to build web api with nodejs and express|
+| Free hosting | https://netlify.com | try it |
+| free tier | http://firebase.google.com | try it |
+| free tier | http://aws.amazon.com | try it |
+| free tier | http://heroku.com |  try it|
+|free hosting |  http://pages.github.com | link it to your github account |
+| free hosting | http://vercel.com | try it|
+| free hosting | http://surge.sh | try it |
+| free hosting |http://render.com | try it |
+| free hosting | http://docs.gitlab.com/ee/user/project/pages | try it |
